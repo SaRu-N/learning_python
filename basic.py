@@ -5,7 +5,7 @@ user_name = "Alice"
 user_age="20"
 print("Hello there my name is "+user_name+".")
 print("I am "+user_age+ " years old.")
-user_name="Bob"
+user_name="John"
 user_age="25"
 print("Hello there my name is "+user_name+".")
 print("I am "+user_age+ " years old.")
