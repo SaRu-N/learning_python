@@ -9,4 +9,6 @@ result2=num1*num2
 print("Product is "+str(result2))
 result3=num1/num2
 print("Division: "+str(result3))
+result4=num1%num2
+print("Remainder: "+str(result4))
 
