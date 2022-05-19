@@ -1,3 +1,3 @@
-name= input("Enter your name: ")
-age= input("Enter your age: ")
+name= input("What is your name? ")
+age= input("How old are you? ")
 print("Hello "+ name + "! Enjoy being "+age)
