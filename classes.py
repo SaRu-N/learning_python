@@ -18,3 +18,17 @@ class Question:
         self.prompt=prompt
         self.answer=answer
 
+class Chef:
+    def make_momos(self):
+        print("The chef can make momos")
+    def make_salad(self):
+        print("The chef can make a salad")
+    def make_special_dish(self):
+        print("The chef can make chatpate")
+
+# inheritance
+class ChineaseChef (Chef):
+    def make_special_dish(self):
+        print("The Chef can make Sushi")
+    def make_fried_rice(self):
+        print("The Chef can make fried rice")
