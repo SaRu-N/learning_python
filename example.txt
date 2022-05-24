@@ -1,0 +1,5 @@
+This file is used for example of File Handleing .
+I am learning to work with files in python.
+Come on Lets learn something.
+I am writing this file externally.
+I am writing this file externally
